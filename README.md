@@ -11,10 +11,12 @@ Este projeto realiza a modelagem e avaliação de diferentes algoritmos de apren
 
 ```bash
 pip install -r requirements.txt
+```
 
 ## Execução
 ```bash
 python main.py
+```
 
 ## Algoritmos
 Na pasta machine_learning.
